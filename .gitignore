@@ -1,4 +1,5 @@
 *.idea
 *.venv
 
-freeflyer/docs/build/
+freeflyer/docs/build/.doctrees
+freeflyer/docs/build/doctrees
