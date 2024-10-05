@@ -9,7 +9,7 @@ FreeFlyer Documentation
 Welcome to FreeFlyer's documentation! Below you will find an index of available help guides.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Help Guides:
 
    visibility
